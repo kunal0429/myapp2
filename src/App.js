@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
      <h1> Hello this is my first web page that I deployed on Github</h1>\
-     <a src="https://www.google.com"> Click on that to reach out to google  </a>
+     <a href="https://www.google.com"> Click on that to reach out to google  </a>
     </div>
   );
 }
